@@ -1,0 +1,14 @@
+p{
+	background-color: white;
+	border:1px dashed black;
+	text-align: center;
+
+}
+div{
+	width: 200;
+	height: 500;
+	border: 8px solid #8A2BE2 ;
+	padding: 30px;
+	background-color: #FFE4C4;
+	margin: 30px;
+}
